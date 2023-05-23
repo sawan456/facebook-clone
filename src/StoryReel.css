@@ -1,0 +1,10 @@
+.storyReel {
+    display: flex;
+}
+
+@media only screen and (max-width: 667px) {
+    .storyReel {
+        /* background-color: red; */
+        margin-right: 46%;
+    }
+}
